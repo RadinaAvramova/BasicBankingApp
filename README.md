@@ -1,2 +1,1 @@
-# BasicBankingApp
-BasicBankingApp
+# Basic Banking App
