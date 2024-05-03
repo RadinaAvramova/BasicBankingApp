@@ -36,7 +36,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/credit"
-        android:text="Developed by Asad Mughal"
+        android:text="Developed by Radina Avramova"
         android:textColor="@color/colorPrimary"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="30dp"
